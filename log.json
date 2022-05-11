@@ -1,0 +1,22 @@
+{
+    "backend": "django",
+    "db_name": "",
+    "db_pass": "",
+    "db_type": "sqlite",
+    "db_user": "",
+    "dbms": "1",
+    "description": "generated product",
+    "design": "volt-dashboard",
+    "docker": "0",
+    "frontend": "",
+    "github_repo": "https://github.com/appseed-projects/97759643-3e1c-4bf9-b215-08ca964dc84d",
+    "heroku": "0",
+    "pattern": "mvc",
+    "pro": "0",
+    "task_id": "97759643-3e1c-4bf9-b215-08ca964dc84d",
+    "task_info": "Upload Sources [0%] - 491 files",
+    "task_result": "SUCCESS",
+    "task_state": "RUNNING",
+    "task_ts_end": "2022-05-11-13-40-13",
+    "task_ts_start": "2022-05-11-13-40-10"
+}
